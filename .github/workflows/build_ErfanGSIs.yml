@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/V12.0.3.0.QFACNXM/miui_CEPHEUS_V12.0.3.0.QFACNXM_20f96e9c93_10.0.zip
+  ROM_URL: https://cloud189-shzh-home.oos-gdsz.ctyunapi.cn/f0e48f4e-2e57-4433-b6b0-363debf9c934?response-content-disposition=attachment%3Bfilename%3D%22xiaomi.eu_multi_MI9_20.7.30_438c838bc0_v12-10.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=WEB&Signature=lBFRnnYR6ug9SOuSkpwjR6EwI88%3D&x-amz-SHID=169697285&AWSAccessKeyId=e975956edda0be55c086&Expires=1598196294&x-amz-limitrate=10240&x-amz-FSIZE=2738812215&x-amz-UID=487177985&x-amz-UFID=41314310823994593
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
